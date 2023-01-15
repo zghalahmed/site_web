@@ -1,0 +1,131 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+nav{
+    height: 70px;
+    text-align: right;
+    margin-top: 30px;
+}
+nav a{
+    width: 100px;
+    background: #fff;
+    color: rgb(226, 59, 184);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10 px;
+    border: 8px solid white;   
+    border-radius: 10px;
+}
+
+
+
+.photo {
+    margin-left: 5%;
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    overflow: hidden;
+
+}
+.right{
+    margin-left: 10%;
+    margin-top: -8%;
+   
+}
+.information{
+    margin-left: 18%;
+    margin-top: -10%;
+}   
+
+header {
+    height: 200px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(11, 21, 83);
+    
+}
+
+
+
+h3{
+    color: #13c3ba;
+    letter-spacing: .1rem;
+    font-size: 20px;
+}
+.post{
+    color: orange;
+    letter-spacing: .1rem;
+}
+
+.right p{
+   margin-left: 600px;
+   letter-spacing: .1rem;    
+}
+.info{
+    width: 20px;
+    height: 20px;
+}
+.section-left{
+    background-color: white;
+    float: left;
+    width: 400px;
+}
+.section-right{
+    background-color: white;
+    float: right;
+    width: 400px;
+    margin-right: 180px;
+}
+ h4{
+    margin-left: 10%;
+    color: #13c3ba;
+    letter-spacing: .1rem;
+    font-size: 18px;
+}
+hr.light{
+ border-top: 2px solid #13c3ba;
+ width: 90%;
+ margin-top: .8rem;
+ margin-bottom: 1rem;
+}
+.atouts{
+    display: grid;
+    margin-left: 10%;
+}
+.div{
+    margin-left: 10%;
+}
+
+.skls {
+    padding: 0px;
+    width: 40%;
+    margin-left: 10%
+}
+.cool {
+    background-color: #fff;
+    border: 2px solid #ccc;
+    width: 300px;
+    height: 7px;
+}
+
+.po {
+    margin-top: 20px;
+}
+strong{
+    color: #13c3ba;
+    text-decoration: none; 
+}
+.inner {
+    height: 100%;
+    background-color:  orange;
+}
+.interet{
+    margin-left: 10%;
+}
+span{
+    margin-left: 10px;
+}
+.hamdi{
+    margin-top: -50px;
+}

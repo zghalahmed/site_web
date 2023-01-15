@@ -1,0 +1,71 @@
+header {
+    height: 170px;
+    padding-top: 10px;
+    color: white;
+    background-color: rgb(11, 21, 83);
+    
+}
+h1{
+text-transform: uppercase;
+color: #13c3ba;
+text-decoration: none;
+font-size: 40px;width: 200px;
+margin-top: -10px;
+
+}
+
+nav{
+    height: 70px;
+    text-align: right;
+    margin-top: 30px;
+    }
+nav a{
+    width: 100px;
+    background: #fff;
+    color: rgb(226, 59, 184);
+    text-decoration: none;
+    font-size: 16px;
+    margin: 10px;
+    padding: 10 px;
+    border: 8px solid white;   
+    border-radius: 10px;
+}
+.annee{
+    margin-left: 20px;
+    padding-right: 40px;
+    color: orange;
+    ;
+    font-size: 18px;
+   }
+body{
+    color: black;
+    font-size: 15px;
+}
+h2{
+    color: #13c3ba;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    width: 410px;
+}
+
+.ss{
+    width: 310px;
+    margin-top: 50px;
+}
+.steg{
+margin-left: 850px;
+margin-top: -1300px;
+width: 350px;
+height: 200px;
+}
+#smart{
+margin-left: 850px;
+margin-top: -1300px;
+width: 350px;
+height: 200px;
+
+}
+.titre{
+    margin-top: 20px;
+    color: #333;
+}
